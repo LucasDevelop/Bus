@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BlindApp</string>
+    <string name="current_station">当前站：</string>
+    <string name="near_station">最近站：</string>
+    <string name="first_train">首班：</string>
+    <string name="last_train">末班：</string>
+    <string name="ticket_price">票价：</string>
+</resources>
